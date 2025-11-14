@@ -130,8 +130,6 @@ DOWNLOAD_FOLDER = os.path.join(os.path.expanduser("~"), "Desktop", "YT-Downloads
 
 - This project is intended to run **locally** (localhost). Do NOT expose the server to the public internet without adding authentication and access controls.
 - `yt-dlp` can download from many sources — only use it where you have permission to download content.
-- Filenames are created from user input; sanitize or restrict characters if you plan to use this across OSes.
-
 ---
 
 ## Troubleshooting
