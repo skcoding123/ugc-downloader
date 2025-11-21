@@ -1,4 +1,3 @@
-#YT Downloader
 A simple local **Social media downloader** with a React front-end and a Flask backend that uses **yt-dlp** to download videos. The UI lets you queue multiple URLs, set filenames, start downloads, and monitor live progress.
 
 ---
